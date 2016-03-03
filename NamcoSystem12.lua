@@ -15,7 +15,7 @@ Addresses = {
 }
 
 --[[
-Custom Namco Hardware being driven by a 
+Custom Namco Hardware being driven by a H8/3002
 48 tracks possible as the address table above point out
 
 Voices
